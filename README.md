@@ -1,4 +1,4 @@
-# DAVSR
+# DASAA
 A project for video super-resolution
 
 # Prerequisites
